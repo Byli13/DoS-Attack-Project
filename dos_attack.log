@@ -1,0 +1,5 @@
+2024-12-19 22:18:15 - INFO - Attack started - Target: 192.168.1.1:80 - Method: syn
+2024-12-19 22:19:43 - INFO - Attack started - Target: 192.168.1.30:80 - Method: http
+2024-12-19 22:20:25 - INFO - Attack started - Target: 192.168.1.30:80 - Method: syn
+2024-12-19 22:20:56 - INFO - Attack started - Target: 192.168.1.30:80 - Method: http
+2024-12-19 22:21:18 - INFO - Attack started - Target: 192.168.1.30:80 - Method: slowloris
